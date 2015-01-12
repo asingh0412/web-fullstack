@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>FAQ</title>
+     <link href="css/reset.css" rel="stylesheet" type="text/css">
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Denk+One"
+    rel="stylesheet" type="text/css">
+        
+    <script src="js/jquery-1.9.1.min.js"></script>
+    <script src="http://code.jquery.com/jquery-latest.min.js"
+        type="text/javascript"></script>
+    <script>
+        $(document).ready(function() {
+            $('#faq-list h2').click(function() {
+                
+                $(this).next('.answer').slideToggle(500);
+                $(this).toggleClass('close');
+                
+            });
+        }); // end ready
+    </script>
+</head>
+
+<body>
+<header>
+      <div class="container">
+        <h1><i>Amazeriffic!</i></h1>
+        <nav>
+          <a href="#">Sign Up!</a> |
+          <a href="faq.html">FAQ</a> |
+          <a href="#">Support</a>
+        </nav>
+      </div>
+    </header>
+    <hr>
+    <main>
+        <section id="faq-list">
+            <h2>General FAQs</h2>
+            <h3>Dummy text: Its function as a filler or as a tool for
+            comparing the visual impression of different typefaces?</h3>
+            <div class="answer">
+                <p>Dummy text is text that is used in the publishing industry
+                or by web designers to occupy the space which will later be
+                filled with 'real' content. This is required when, for example,
+                the final text is not yet available. Dummy text is also known
+                as 'fill text'. It is said that song composers of the past
+                used dummy texts as lyrics when writing melodies in order
+                to have a 'ready-made' text to sing with the melody.
+                Dummy texts have been in use by typesetters since the 16th century.</p>
+            </div>
+            <h3>The usefulness of nonsensical content?</h3>
+            <div class="answer">
+                <p>Dummy text is also used to demonstrate the
+                appearance of different typefaces and layouts,
+                and in general the content of dummy text is nonsensical.
+                Due to its widespread use as filler text for layouts,
+                non-readability is of great importance: human perception
+                is tuned to recognize certain patterns and repetitions in texts.
+                If the distribution of letters and 'words' is random, the reader
+                will not be distracted from making a neutral judgement on the visual
+                impact and readability of the typefaces (typography),
+                or the distribution of text on the page (layout or type area).
+                For this reason, dummy text usually consists of a more or
+            </div>
+    
+            <h3/>Incomprehensibility or readability? That is the question.</h3>
+            <div class="answer">
+                <p>The most well-known dummy text is the 'Lorem Ipsum', which is said to
+                have originated in the 16th century. Lorem Ipsum is composed in a pseudo-Latin
+                language which more or less corresponds to 'proper' Latin. It contains a series of
+                real Latin words.
+                </p>
+            </div>
+        </section>
+    </main>
+    
+    <footer>
+      <div class="container">
+        <div class="left">
+          <div class="contact">
+            <h5>Contact Us</h5>
+            <p style="color: tomato;"><i>Amazeriffic!</i></p>
+            <p>555 Fiftieth Street</p>
+            <p>Asheville, NC 28801</p>
+          </div>
+        </div>
+        <div class="sitemap">
+          <h5>Sitemap</h5>
+        <div class="fleft">
+            <ul style="list-style-type:none">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Privacy</a></li>
+            </ul>
+        </div>
+           
+        <div class="fright">
+            <ul style="list-style-type:none">
+                <li><a href="#">Support</a></li>
+                <li><a href="faq.html">FAQ</a></li>
+                <li><a href="#">Careers</a></li>
+            </ul>
+        </div>
+        </div>
+      </div>
+    </footer>
+
+
+</body>
+</html>
