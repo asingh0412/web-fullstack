@@ -1,0 +1,22 @@
+[
+    {"title": "philosophers Stone",
+    "author":{"first": "J K",
+              "last": "Rowling"    },
+    "url": "http://www.amazon.com/Harry-Potter-Philosophers-Stone-Rowling/dp/074757166X/ref=sr_1_3?ie=UTF8&qid=1422473220&sr=8-3&keywords=philosophers+stone&pebp=1422473470720&peasin=074757166X",
+    "price": 372.54},
+    
+    
+    {"title": "Chamber of Secrets",
+    "author":{"first": "J K",
+              "last": "Rowling"    },
+    "url": "http://www.amazon.com/Harry-Potter-Chamber-Secrets-Rowling/dp/0439064864/ref=pd_sim_b_1?ie=UTF8&refRID=13YJGPZ1B3CVRHFR2K9Q",
+    "price": 14.40},
+       
+       
+    {"title": "Prisoner of Azkaban",
+    "author":{"first": "J K",
+              "last": "Rowling"    },
+    "url": "http://www.amazon.com/Harry-Potter-And-Prisoner-Azkaban/dp/0439136350/ref=pd_sim_b_1?ie=UTF8&refRID=1CK30JX1DV4SMXZ0BPH9",
+    "price": 17.03}
+]
+

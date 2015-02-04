@@ -118,15 +118,15 @@ input {
 }
 button {
   
-  border-radius: 5px;
-  color: ivory;
-  background: #808080;
-  cursor: pointer;
-  font-size: 1.5em;
- margin-left: 5px;
-  font-weight: bold;
-  padding: 3px;
-  float: right !important;
+   border-radius: 5px;
+   color: ivory;
+   background: #808080;
+   cursor: pointer;
+   
+   margin-left: 5px;
+   font-weight: bold;
+   padding: 3px;
+   float: right !important;
   
 }
 

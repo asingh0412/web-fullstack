@@ -41,12 +41,13 @@
                         $content = $("<ul>");
                         
                         for(i = toDos.length-1; i >= 0; i--){
-                            $content.append($("<li>").text(toDos[i]), ("<button>x</button>"));
-                        
+                            $content.append("<li class='remove'> <button>x</button> "+toDos[i]+"</li>");
+                            //content.append("<li class= "remove"> <button>x</button> "+toDos[i]+" </li>");
+                        //<li class='remove'> <button>x</button> "+toDos[index]+"</li>"
                         }
                         $('button').on('click', function(){
                         $(this).remove()
-                        alert("hi");
+                      
                         });
                     }
                     else if ($element.parent().is(":nth-child(2)")) {
@@ -80,6 +81,11 @@
                 });
             });
              $(".tabs a:first-child span").trigger("click");
+             
+             // Removes todo entries by hiding them
+                $(".remove").on("click",function(){
+                    $(this).hide();
+                });
             /*
              *
             for(tabNumber = 1; tabNumber <= 3; tabNumber++){
