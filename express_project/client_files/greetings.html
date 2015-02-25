@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Hello World</title>
+    <script src="jquery-1.11.2.min.js"></script>
+    <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.11.2.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script>
+        //get the value from the text field
+        var name = $("#txt-name").val();
+        
+        //Post name to the server "greetings" route
+        $.post("greetings", {name: name}, function (res){
+            console.log("The server responded: " + res.respond);
+            // Display the server respnse in the div
+            $("#response").html(res.respnse);
+        });
+    </script>
+</head>
+
+<body>
+    <h1>Hellow world</h1>
+ <p>paragraph</p>
+ <input id="txt-name" type="text" name="name" value="Bob" placeholder="Enter name">
+ <div id="response"></div>
+
+
+</body>
+</html>
