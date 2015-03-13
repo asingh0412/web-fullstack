@@ -1,0 +1,1036 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node', '/usr/local/bin/npm', 'rebuild' ]
+2 info using npm@1.4.28
+3 info using node@v0.10.36
+4 info readInstalled object
+5 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo',
+5 verbose rebuild   'demo@0.0.0' ]
+6 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser',
+6 verbose rebuild   'body-parser@1.10.2' ]
+7 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules/bytes',
+7 verbose rebuild   'bytes@1.0.0' ]
+8 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules/depd',
+8 verbose rebuild   'depd@1.0.0' ]
+9 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules/iconv-lite',
+9 verbose rebuild   'iconv-lite@0.4.6' ]
+10 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules/media-typer',
+10 verbose rebuild   'media-typer@0.3.0' ]
+11 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules/on-finished',
+11 verbose rebuild   'on-finished@2.2.0' ]
+12 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules/on-finished/node_modules/ee-first',
+12 verbose rebuild   'ee-first@1.1.0' ]
+13 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules/qs',
+13 verbose rebuild   'qs@2.3.3' ]
+14 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules/raw-body',
+14 verbose rebuild   'raw-body@1.3.2' ]
+15 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules/type-is',
+15 verbose rebuild   'type-is@1.5.7' ]
+16 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules/type-is/node_modules/mime-types',
+16 verbose rebuild   'mime-types@2.0.9' ]
+17 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/node_modules/mime-db',
+17 verbose rebuild   'mime-db@1.7.0' ]
+18 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/cookie-parser',
+18 verbose rebuild   'cookie-parser@1.3.4' ]
+19 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/cookie-parser/node_modules/cookie',
+19 verbose rebuild   'cookie@0.1.2' ]
+20 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/cookie-parser/node_modules/cookie-signature',
+20 verbose rebuild   'cookie-signature@1.0.6' ]
+21 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/debug',
+21 verbose rebuild   'debug@2.1.1' ]
+22 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/debug/node_modules/ms',
+22 verbose rebuild   'ms@0.6.2' ]
+23 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express',
+23 verbose rebuild   'express@4.11.2' ]
+24 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/accepts',
+24 verbose rebuild   'accepts@1.2.4' ]
+25 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/accepts/node_modules/mime-types',
+25 verbose rebuild   'mime-types@2.0.9' ]
+26 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/accepts/node_modules/mime-types/node_modules/mime-db',
+26 verbose rebuild   'mime-db@1.7.0' ]
+27 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/accepts/node_modules/negotiator',
+27 verbose rebuild   'negotiator@0.5.1' ]
+28 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/content-disposition',
+28 verbose rebuild   'content-disposition@0.5.0' ]
+29 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/cookie-signature',
+29 verbose rebuild   'cookie-signature@1.0.5' ]
+30 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/depd',
+30 verbose rebuild   'depd@1.0.0' ]
+31 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/escape-html',
+31 verbose rebuild   'escape-html@1.0.1' ]
+32 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/etag',
+32 verbose rebuild   'etag@1.5.1' ]
+33 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/etag/node_modules/crc',
+33 verbose rebuild   'crc@3.2.1' ]
+34 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/finalhandler',
+34 verbose rebuild   'finalhandler@0.3.3' ]
+35 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/on-finished',
+35 verbose rebuild   'on-finished@2.2.0' ]
+36 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/on-finished/node_modules/ee-first',
+36 verbose rebuild   'ee-first@1.1.0' ]
+37 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/fresh',
+37 verbose rebuild   'fresh@0.2.4' ]
+38 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/media-typer',
+38 verbose rebuild   'media-typer@0.3.0' ]
+39 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/methods',
+39 verbose rebuild   'methods@1.1.1' ]
+40 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/parseurl',
+40 verbose rebuild   'parseurl@1.3.0' ]
+41 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/path-to-regexp',
+41 verbose rebuild   'path-to-regexp@0.1.3' ]
+42 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/proxy-addr',
+42 verbose rebuild   'proxy-addr@1.0.6' ]
+43 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/proxy-addr/node_modules/forwarded',
+43 verbose rebuild   'forwarded@0.1.0' ]
+44 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js',
+44 verbose rebuild   'ipaddr.js@0.1.8' ]
+45 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/qs',
+45 verbose rebuild   'qs@2.3.3' ]
+46 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/range-parser',
+46 verbose rebuild   'range-parser@1.0.2' ]
+47 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/send',
+47 verbose rebuild   'send@0.11.1' ]
+48 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/send/node_modules/destroy',
+48 verbose rebuild   'destroy@1.0.3' ]
+49 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/send/node_modules/mime',
+49 verbose rebuild   'mime@1.2.11' ]
+50 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/send/node_modules/ms',
+50 verbose rebuild   'ms@0.7.0' ]
+51 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/serve-static',
+51 verbose rebuild   'serve-static@1.8.1' ]
+52 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/utils-merge',
+52 verbose rebuild   'utils-merge@1.0.0' ]
+53 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/type-is',
+53 verbose rebuild   'type-is@1.5.7' ]
+54 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/type-is/node_modules/mime-types',
+54 verbose rebuild   'mime-types@2.0.9' ]
+55 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/type-is/node_modules/mime-types/node_modules/mime-db',
+55 verbose rebuild   'mime-db@1.7.0' ]
+56 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/vary',
+56 verbose rebuild   'vary@1.0.0' ]
+57 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/cookie',
+57 verbose rebuild   'cookie@0.1.2' ]
+58 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/merge-descriptors',
+58 verbose rebuild   'merge-descriptors@0.0.2' ]
+59 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade',
+59 verbose rebuild   'jade@1.9.2' ]
+60 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/character-parser',
+60 verbose rebuild   'character-parser@1.2.1' ]
+61 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/commander',
+61 verbose rebuild   'commander@2.6.0' ]
+62 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/constantinople',
+62 verbose rebuild   'constantinople@3.0.1' ]
+63 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/constantinople/node_modules/acorn-globals',
+63 verbose rebuild   'acorn-globals@1.0.2' ]
+64 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/constantinople/node_modules/acorn-globals/node_modules/acorn',
+64 verbose rebuild   'acorn@0.11.0' ]
+65 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/mkdirp',
+65 verbose rebuild   'mkdirp@0.5.0' ]
+66 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/mkdirp/node_modules/minimist',
+66 verbose rebuild   'minimist@0.0.8' ]
+67 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/transformers',
+67 verbose rebuild   'transformers@2.1.0' ]
+68 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/transformers/node_modules/promise',
+68 verbose rebuild   'promise@2.0.0' ]
+69 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/transformers/node_modules/promise/node_modules/is-promise',
+69 verbose rebuild   'is-promise@1.0.1' ]
+70 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/transformers/node_modules/css',
+70 verbose rebuild   'css@1.0.8' ]
+71 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/transformers/node_modules/css/node_modules/css-parse',
+71 verbose rebuild   'css-parse@1.0.4' ]
+72 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/transformers/node_modules/css/node_modules/css-stringify',
+72 verbose rebuild   'css-stringify@1.0.5' ]
+73 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/transformers/node_modules/uglify-js',
+73 verbose rebuild   'uglify-js@2.2.5' ]
+74 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map',
+74 verbose rebuild   'source-map@0.1.43' ]
+75 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/node_modules/amdefine',
+75 verbose rebuild   'amdefine@0.1.0' ]
+76 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist',
+76 verbose rebuild   'optimist@0.3.7' ]
+77 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap',
+77 verbose rebuild   'wordwrap@0.0.2' ]
+78 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/void-elements',
+78 verbose rebuild   'void-elements@2.0.1' ]
+79 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/with',
+79 verbose rebuild   'with@4.0.1' ]
+80 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/with/node_modules/acorn',
+80 verbose rebuild   'acorn@0.11.0' ]
+81 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/with/node_modules/acorn-globals',
+81 verbose rebuild   'acorn-globals@1.0.2' ]
+82 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/morgan',
+82 verbose rebuild   'morgan@1.5.1' ]
+83 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/morgan/node_modules/basic-auth',
+83 verbose rebuild   'basic-auth@1.0.0' ]
+84 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/morgan/node_modules/depd',
+84 verbose rebuild   'depd@1.0.0' ]
+85 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/morgan/node_modules/on-finished',
+85 verbose rebuild   'on-finished@2.2.0' ]
+86 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/morgan/node_modules/on-finished/node_modules/ee-first',
+86 verbose rebuild   'ee-first@1.1.0' ]
+87 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/serve-favicon',
+87 verbose rebuild   'serve-favicon@2.2.0' ]
+88 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/serve-favicon/node_modules/etag',
+88 verbose rebuild   'etag@1.5.1' ]
+89 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/serve-favicon/node_modules/etag/node_modules/crc',
+89 verbose rebuild   'crc@3.2.1' ]
+90 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/serve-favicon/node_modules/fresh',
+90 verbose rebuild   'fresh@0.2.4' ]
+91 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/serve-favicon/node_modules/ms',
+91 verbose rebuild   'ms@0.7.0' ]
+92 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/serve-favicon/node_modules/parseurl',
+92 verbose rebuild   'parseurl@1.3.0' ]
+93 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/mongodb',
+93 verbose rebuild   'mongodb@1.4.31' ]
+94 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/mongodb/node_modules/bson',
+94 verbose rebuild   'bson@0.2.19' ]
+95 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/mongodb/node_modules/bson/node_modules/nan',
+95 verbose rebuild   'nan@1.6.2' ]
+96 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/mongodb/node_modules/kerberos',
+96 verbose rebuild   'kerberos@0.0.9' ]
+97 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/mongodb/node_modules/kerberos/node_modules/nan',
+97 verbose rebuild   'nan@1.6.2' ]
+98 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/mongodb/node_modules/readable-stream',
+98 verbose rebuild   'readable-stream@1.0.33' ]
+99 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/mongodb/node_modules/readable-stream/node_modules/core-util-is',
+99 verbose rebuild   'core-util-is@1.0.1' ]
+100 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/mongodb/node_modules/readable-stream/node_modules/isarray',
+100 verbose rebuild   'isarray@0.0.1' ]
+101 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/mongodb/node_modules/readable-stream/node_modules/string_decoder',
+101 verbose rebuild   'string_decoder@0.10.31' ]
+102 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/mongodb/node_modules/readable-stream/node_modules/inherits',
+102 verbose rebuild   'inherits@2.0.1' ]
+103 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/monk',
+103 verbose rebuild   'monk@0.9.1' ]
+104 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/monk/node_modules/mongoskin',
+104 verbose rebuild   'mongoskin@1.4.4' ]
+105 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/monk/node_modules/mongoskin/node_modules/mongodb',
+105 verbose rebuild   'mongodb@1.4.4' ]
+106 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/monk/node_modules/mongoskin/node_modules/mongodb/node_modules/bson',
+106 verbose rebuild   'bson@0.2.8' ]
+107 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/monk/node_modules/mongoskin/node_modules/mongodb/node_modules/bson/node_modules/nan',
+107 verbose rebuild   'nan@1.0.0' ]
+108 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/monk/node_modules/mongoskin/node_modules/mongodb/node_modules/kerberos',
+108 verbose rebuild   'kerberos@0.0.3' ]
+109 verbose rebuild path, id [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/monk/node_modules/mpromise',
+109 verbose rebuild   'mpromise@0.5.1' ]
+110 silly rebuild set [ '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules/bytes',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules/depd',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules/iconv-lite',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules/media-typer',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules/on-finished',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules/on-finished/node_modules/ee-first',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules/qs',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules/raw-body',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules/type-is',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules/type-is/node_modules/mime-types',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/node_modules/mime-db',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/cookie-parser',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/cookie-parser/node_modules/cookie',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/cookie-parser/node_modules/cookie-signature',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/debug',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/debug/node_modules/ms',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/accepts',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/accepts/node_modules/mime-types',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/accepts/node_modules/mime-types/node_modules/mime-db',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/accepts/node_modules/negotiator',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/content-disposition',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/cookie-signature',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/depd',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/escape-html',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/etag',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/etag/node_modules/crc',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/finalhandler',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/on-finished',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/on-finished/node_modules/ee-first',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/fresh',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/media-typer',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/methods',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/parseurl',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/path-to-regexp',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/proxy-addr',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/proxy-addr/node_modules/forwarded',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/qs',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/range-parser',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/send',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/send/node_modules/destroy',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/send/node_modules/mime',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/send/node_modules/ms',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/serve-static',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/utils-merge',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/type-is',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/type-is/node_modules/mime-types',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/type-is/node_modules/mime-types/node_modules/mime-db',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/vary',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/cookie',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/merge-descriptors',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/character-parser',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/commander',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/constantinople',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/constantinople/node_modules/acorn-globals',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/constantinople/node_modules/acorn-globals/node_modules/acorn',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/mkdirp',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/mkdirp/node_modules/minimist',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/transformers',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/transformers/node_modules/promise',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/transformers/node_modules/promise/node_modules/is-promise',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/transformers/node_modules/css',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/transformers/node_modules/css/node_modules/css-parse',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/transformers/node_modules/css/node_modules/css-stringify',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/transformers/node_modules/uglify-js',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/node_modules/amdefine',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/void-elements',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/with',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/with/node_modules/acorn',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade/node_modules/with/node_modules/acorn-globals',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/morgan',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/morgan/node_modules/basic-auth',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/morgan/node_modules/depd',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/morgan/node_modules/on-finished',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/morgan/node_modules/on-finished/node_modules/ee-first',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/serve-favicon',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/serve-favicon/node_modules/etag',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/serve-favicon/node_modules/etag/node_modules/crc',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/serve-favicon/node_modules/fresh',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/serve-favicon/node_modules/ms',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/serve-favicon/node_modules/parseurl',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/mongodb',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/mongodb/node_modules/bson',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/mongodb/node_modules/bson/node_modules/nan',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/mongodb/node_modules/kerberos',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/mongodb/node_modules/kerberos/node_modules/nan',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/mongodb/node_modules/readable-stream',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/mongodb/node_modules/readable-stream/node_modules/core-util-is',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/mongodb/node_modules/readable-stream/node_modules/isarray',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/mongodb/node_modules/readable-stream/node_modules/string_decoder',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/mongodb/node_modules/readable-stream/node_modules/inherits',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/monk',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/monk/node_modules/mongoskin',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/monk/node_modules/mongoskin/node_modules/mongodb',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/monk/node_modules/mongoskin/node_modules/mongodb/node_modules/bson',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/monk/node_modules/mongoskin/node_modules/mongodb/node_modules/bson/node_modules/nan',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/monk/node_modules/mongoskin/node_modules/mongodb/node_modules/kerberos',
+110 silly rebuild set   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/monk/node_modules/mpromise' ]
+111 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser
+112 info preinstall body-parser@1.10.2
+113 verbose linkStuff [ false,
+113 verbose linkStuff   false,
+113 verbose linkStuff   false,
+113 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules' ]
+114 info linkStuff body-parser@1.10.2
+115 verbose linkBins body-parser@1.10.2
+116 verbose linkMans body-parser@1.10.2
+117 verbose rebuildBundles body-parser@1.10.2
+118 verbose rebuildBundles [ 'bytes',
+118 verbose rebuildBundles   'depd',
+118 verbose rebuildBundles   'iconv-lite',
+118 verbose rebuildBundles   'media-typer',
+118 verbose rebuildBundles   'on-finished',
+118 verbose rebuildBundles   'qs',
+118 verbose rebuildBundles   'raw-body',
+118 verbose rebuildBundles   'type-is' ]
+119 info install body-parser@1.10.2
+120 info postinstall body-parser@1.10.2
+121 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules/bytes
+122 info preinstall bytes@1.0.0
+123 verbose linkStuff [ false,
+123 verbose linkStuff   false,
+123 verbose linkStuff   false,
+123 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules' ]
+124 info linkStuff bytes@1.0.0
+125 verbose linkBins bytes@1.0.0
+126 verbose linkMans bytes@1.0.0
+127 verbose rebuildBundles bytes@1.0.0
+128 info install bytes@1.0.0
+129 info postinstall bytes@1.0.0
+130 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules/depd
+131 info preinstall depd@1.0.0
+132 verbose linkStuff [ false,
+132 verbose linkStuff   false,
+132 verbose linkStuff   false,
+132 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules' ]
+133 info linkStuff depd@1.0.0
+134 verbose linkBins depd@1.0.0
+135 verbose linkMans depd@1.0.0
+136 verbose rebuildBundles depd@1.0.0
+137 info install depd@1.0.0
+138 info postinstall depd@1.0.0
+139 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules/iconv-lite
+140 info preinstall iconv-lite@0.4.6
+141 verbose linkStuff [ false,
+141 verbose linkStuff   false,
+141 verbose linkStuff   false,
+141 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules' ]
+142 info linkStuff iconv-lite@0.4.6
+143 verbose linkBins iconv-lite@0.4.6
+144 verbose linkMans iconv-lite@0.4.6
+145 verbose rebuildBundles iconv-lite@0.4.6
+146 info install iconv-lite@0.4.6
+147 info postinstall iconv-lite@0.4.6
+148 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules/media-typer
+149 info preinstall media-typer@0.3.0
+150 verbose linkStuff [ false,
+150 verbose linkStuff   false,
+150 verbose linkStuff   false,
+150 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules' ]
+151 info linkStuff media-typer@0.3.0
+152 verbose linkBins media-typer@0.3.0
+153 verbose linkMans media-typer@0.3.0
+154 verbose rebuildBundles media-typer@0.3.0
+155 info install media-typer@0.3.0
+156 info postinstall media-typer@0.3.0
+157 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules/on-finished
+158 info preinstall on-finished@2.2.0
+159 verbose linkStuff [ false,
+159 verbose linkStuff   false,
+159 verbose linkStuff   false,
+159 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules' ]
+160 info linkStuff on-finished@2.2.0
+161 verbose linkBins on-finished@2.2.0
+162 verbose linkMans on-finished@2.2.0
+163 verbose rebuildBundles on-finished@2.2.0
+164 verbose rebuildBundles [ 'ee-first' ]
+165 info install on-finished@2.2.0
+166 info postinstall on-finished@2.2.0
+167 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules/on-finished/node_modules/ee-first
+168 info preinstall ee-first@1.1.0
+169 verbose linkStuff [ false,
+169 verbose linkStuff   false,
+169 verbose linkStuff   false,
+169 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules/on-finished/node_modules' ]
+170 info linkStuff ee-first@1.1.0
+171 verbose linkBins ee-first@1.1.0
+172 verbose linkMans ee-first@1.1.0
+173 verbose rebuildBundles ee-first@1.1.0
+174 info install ee-first@1.1.0
+175 info postinstall ee-first@1.1.0
+176 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules/qs
+177 info preinstall qs@2.3.3
+178 verbose linkStuff [ false,
+178 verbose linkStuff   false,
+178 verbose linkStuff   false,
+178 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules' ]
+179 info linkStuff qs@2.3.3
+180 verbose linkBins qs@2.3.3
+181 verbose linkMans qs@2.3.3
+182 verbose rebuildBundles qs@2.3.3
+183 info install qs@2.3.3
+184 info postinstall qs@2.3.3
+185 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules/raw-body
+186 info preinstall raw-body@1.3.2
+187 verbose linkStuff [ false,
+187 verbose linkStuff   false,
+187 verbose linkStuff   false,
+187 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules' ]
+188 info linkStuff raw-body@1.3.2
+189 verbose linkBins raw-body@1.3.2
+190 verbose linkMans raw-body@1.3.2
+191 verbose rebuildBundles raw-body@1.3.2
+192 info install raw-body@1.3.2
+193 info postinstall raw-body@1.3.2
+194 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules/type-is
+195 info preinstall type-is@1.5.7
+196 verbose linkStuff [ false,
+196 verbose linkStuff   false,
+196 verbose linkStuff   false,
+196 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules' ]
+197 info linkStuff type-is@1.5.7
+198 verbose linkBins type-is@1.5.7
+199 verbose linkMans type-is@1.5.7
+200 verbose rebuildBundles type-is@1.5.7
+201 verbose rebuildBundles [ 'mime-types' ]
+202 info install type-is@1.5.7
+203 info postinstall type-is@1.5.7
+204 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules/type-is/node_modules/mime-types
+205 info preinstall mime-types@2.0.9
+206 verbose linkStuff [ false,
+206 verbose linkStuff   false,
+206 verbose linkStuff   false,
+206 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules/type-is/node_modules' ]
+207 info linkStuff mime-types@2.0.9
+208 verbose linkBins mime-types@2.0.9
+209 verbose linkMans mime-types@2.0.9
+210 verbose rebuildBundles mime-types@2.0.9
+211 verbose rebuildBundles [ 'mime-db' ]
+212 info install mime-types@2.0.9
+213 info postinstall mime-types@2.0.9
+214 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/node_modules/mime-db
+215 info preinstall mime-db@1.7.0
+216 verbose linkStuff [ false,
+216 verbose linkStuff   false,
+216 verbose linkStuff   false,
+216 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/node_modules' ]
+217 info linkStuff mime-db@1.7.0
+218 verbose linkBins mime-db@1.7.0
+219 verbose linkMans mime-db@1.7.0
+220 verbose rebuildBundles mime-db@1.7.0
+221 info install mime-db@1.7.0
+222 info postinstall mime-db@1.7.0
+223 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/cookie-parser
+224 info preinstall cookie-parser@1.3.4
+225 verbose linkStuff [ false,
+225 verbose linkStuff   false,
+225 verbose linkStuff   false,
+225 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules' ]
+226 info linkStuff cookie-parser@1.3.4
+227 verbose linkBins cookie-parser@1.3.4
+228 verbose linkMans cookie-parser@1.3.4
+229 verbose rebuildBundles cookie-parser@1.3.4
+230 verbose rebuildBundles [ 'cookie', 'cookie-signature' ]
+231 info install cookie-parser@1.3.4
+232 info postinstall cookie-parser@1.3.4
+233 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/cookie-parser/node_modules/cookie
+234 info preinstall cookie@0.1.2
+235 verbose linkStuff [ false,
+235 verbose linkStuff   false,
+235 verbose linkStuff   false,
+235 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/cookie-parser/node_modules' ]
+236 info linkStuff cookie@0.1.2
+237 verbose linkBins cookie@0.1.2
+238 verbose linkMans cookie@0.1.2
+239 verbose rebuildBundles cookie@0.1.2
+240 info install cookie@0.1.2
+241 info postinstall cookie@0.1.2
+242 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/cookie-parser/node_modules/cookie-signature
+243 info preinstall cookie-signature@1.0.6
+244 verbose linkStuff [ false,
+244 verbose linkStuff   false,
+244 verbose linkStuff   false,
+244 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/cookie-parser/node_modules' ]
+245 info linkStuff cookie-signature@1.0.6
+246 verbose linkBins cookie-signature@1.0.6
+247 verbose linkMans cookie-signature@1.0.6
+248 verbose rebuildBundles cookie-signature@1.0.6
+249 info install cookie-signature@1.0.6
+250 info postinstall cookie-signature@1.0.6
+251 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/debug
+252 info preinstall debug@2.1.1
+253 verbose linkStuff [ false,
+253 verbose linkStuff   false,
+253 verbose linkStuff   false,
+253 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules' ]
+254 info linkStuff debug@2.1.1
+255 verbose linkBins debug@2.1.1
+256 verbose linkMans debug@2.1.1
+257 verbose rebuildBundles debug@2.1.1
+258 verbose rebuildBundles [ 'ms' ]
+259 info install debug@2.1.1
+260 info postinstall debug@2.1.1
+261 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/debug/node_modules/ms
+262 info preinstall ms@0.6.2
+263 verbose linkStuff [ false,
+263 verbose linkStuff   false,
+263 verbose linkStuff   false,
+263 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/debug/node_modules' ]
+264 info linkStuff ms@0.6.2
+265 verbose linkBins ms@0.6.2
+266 verbose linkMans ms@0.6.2
+267 verbose rebuildBundles ms@0.6.2
+268 info install ms@0.6.2
+269 info postinstall ms@0.6.2
+270 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express
+271 info preinstall express@4.11.2
+272 verbose linkStuff [ false,
+272 verbose linkStuff   false,
+272 verbose linkStuff   false,
+272 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules' ]
+273 info linkStuff express@4.11.2
+274 verbose linkBins express@4.11.2
+275 verbose linkMans express@4.11.2
+276 verbose rebuildBundles express@4.11.2
+277 verbose rebuildBundles [ 'accepts',
+277 verbose rebuildBundles   'content-disposition',
+277 verbose rebuildBundles   'cookie',
+277 verbose rebuildBundles   'cookie-signature',
+277 verbose rebuildBundles   'depd',
+277 verbose rebuildBundles   'escape-html',
+277 verbose rebuildBundles   'etag',
+277 verbose rebuildBundles   'finalhandler',
+277 verbose rebuildBundles   'fresh',
+277 verbose rebuildBundles   'media-typer',
+277 verbose rebuildBundles   'merge-descriptors',
+277 verbose rebuildBundles   'methods',
+277 verbose rebuildBundles   'on-finished',
+277 verbose rebuildBundles   'parseurl',
+277 verbose rebuildBundles   'path-to-regexp',
+277 verbose rebuildBundles   'proxy-addr',
+277 verbose rebuildBundles   'qs',
+277 verbose rebuildBundles   'range-parser',
+277 verbose rebuildBundles   'send',
+277 verbose rebuildBundles   'serve-static',
+277 verbose rebuildBundles   'type-is',
+277 verbose rebuildBundles   'utils-merge',
+277 verbose rebuildBundles   'vary' ]
+278 info install express@4.11.2
+279 info postinstall express@4.11.2
+280 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/accepts
+281 info preinstall accepts@1.2.4
+282 verbose linkStuff [ false,
+282 verbose linkStuff   false,
+282 verbose linkStuff   false,
+282 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules' ]
+283 info linkStuff accepts@1.2.4
+284 verbose linkBins accepts@1.2.4
+285 verbose linkMans accepts@1.2.4
+286 verbose rebuildBundles accepts@1.2.4
+287 verbose rebuildBundles [ 'mime-types', 'negotiator' ]
+288 info install accepts@1.2.4
+289 info postinstall accepts@1.2.4
+290 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/accepts/node_modules/mime-types
+291 info preinstall mime-types@2.0.9
+292 verbose linkStuff [ false,
+292 verbose linkStuff   false,
+292 verbose linkStuff   false,
+292 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/accepts/node_modules' ]
+293 info linkStuff mime-types@2.0.9
+294 verbose linkBins mime-types@2.0.9
+295 verbose linkMans mime-types@2.0.9
+296 verbose rebuildBundles mime-types@2.0.9
+297 verbose rebuildBundles [ 'mime-db' ]
+298 info install mime-types@2.0.9
+299 info postinstall mime-types@2.0.9
+300 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/accepts/node_modules/mime-types/node_modules/mime-db
+301 info preinstall mime-db@1.7.0
+302 verbose linkStuff [ false,
+302 verbose linkStuff   false,
+302 verbose linkStuff   false,
+302 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/accepts/node_modules/mime-types/node_modules' ]
+303 info linkStuff mime-db@1.7.0
+304 verbose linkBins mime-db@1.7.0
+305 verbose linkMans mime-db@1.7.0
+306 verbose rebuildBundles mime-db@1.7.0
+307 info install mime-db@1.7.0
+308 info postinstall mime-db@1.7.0
+309 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/accepts/node_modules/negotiator
+310 info preinstall negotiator@0.5.1
+311 verbose linkStuff [ false,
+311 verbose linkStuff   false,
+311 verbose linkStuff   false,
+311 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/accepts/node_modules' ]
+312 info linkStuff negotiator@0.5.1
+313 verbose linkBins negotiator@0.5.1
+314 verbose linkMans negotiator@0.5.1
+315 verbose rebuildBundles negotiator@0.5.1
+316 info install negotiator@0.5.1
+317 info postinstall negotiator@0.5.1
+318 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/content-disposition
+319 info preinstall content-disposition@0.5.0
+320 verbose linkStuff [ false,
+320 verbose linkStuff   false,
+320 verbose linkStuff   false,
+320 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules' ]
+321 info linkStuff content-disposition@0.5.0
+322 verbose linkBins content-disposition@0.5.0
+323 verbose linkMans content-disposition@0.5.0
+324 verbose rebuildBundles content-disposition@0.5.0
+325 info install content-disposition@0.5.0
+326 info postinstall content-disposition@0.5.0
+327 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/cookie-signature
+328 info preinstall cookie-signature@1.0.5
+329 verbose linkStuff [ false,
+329 verbose linkStuff   false,
+329 verbose linkStuff   false,
+329 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules' ]
+330 info linkStuff cookie-signature@1.0.5
+331 verbose linkBins cookie-signature@1.0.5
+332 verbose linkMans cookie-signature@1.0.5
+333 verbose rebuildBundles cookie-signature@1.0.5
+334 info install cookie-signature@1.0.5
+335 info postinstall cookie-signature@1.0.5
+336 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/depd
+337 info preinstall depd@1.0.0
+338 verbose linkStuff [ false,
+338 verbose linkStuff   false,
+338 verbose linkStuff   false,
+338 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules' ]
+339 info linkStuff depd@1.0.0
+340 verbose linkBins depd@1.0.0
+341 verbose linkMans depd@1.0.0
+342 verbose rebuildBundles depd@1.0.0
+343 info install depd@1.0.0
+344 info postinstall depd@1.0.0
+345 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/escape-html
+346 info preinstall escape-html@1.0.1
+347 verbose linkStuff [ false,
+347 verbose linkStuff   false,
+347 verbose linkStuff   false,
+347 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules' ]
+348 info linkStuff escape-html@1.0.1
+349 verbose linkBins escape-html@1.0.1
+350 verbose linkMans escape-html@1.0.1
+351 verbose rebuildBundles escape-html@1.0.1
+352 info install escape-html@1.0.1
+353 info postinstall escape-html@1.0.1
+354 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/etag
+355 info preinstall etag@1.5.1
+356 verbose linkStuff [ false,
+356 verbose linkStuff   false,
+356 verbose linkStuff   false,
+356 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules' ]
+357 info linkStuff etag@1.5.1
+358 verbose linkBins etag@1.5.1
+359 verbose linkMans etag@1.5.1
+360 verbose rebuildBundles etag@1.5.1
+361 verbose rebuildBundles [ 'crc' ]
+362 info install etag@1.5.1
+363 info postinstall etag@1.5.1
+364 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/etag/node_modules/crc
+365 info preinstall crc@3.2.1
+366 verbose linkStuff [ false,
+366 verbose linkStuff   false,
+366 verbose linkStuff   false,
+366 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/etag/node_modules' ]
+367 info linkStuff crc@3.2.1
+368 verbose linkBins crc@3.2.1
+369 verbose linkMans crc@3.2.1
+370 verbose rebuildBundles crc@3.2.1
+371 info install crc@3.2.1
+372 info postinstall crc@3.2.1
+373 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/finalhandler
+374 info preinstall finalhandler@0.3.3
+375 verbose linkStuff [ false,
+375 verbose linkStuff   false,
+375 verbose linkStuff   false,
+375 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules' ]
+376 info linkStuff finalhandler@0.3.3
+377 verbose linkBins finalhandler@0.3.3
+378 verbose linkMans finalhandler@0.3.3
+379 verbose rebuildBundles finalhandler@0.3.3
+380 info install finalhandler@0.3.3
+381 info postinstall finalhandler@0.3.3
+382 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/on-finished
+383 info preinstall on-finished@2.2.0
+384 verbose linkStuff [ false,
+384 verbose linkStuff   false,
+384 verbose linkStuff   false,
+384 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules' ]
+385 info linkStuff on-finished@2.2.0
+386 verbose linkBins on-finished@2.2.0
+387 verbose linkMans on-finished@2.2.0
+388 verbose rebuildBundles on-finished@2.2.0
+389 verbose rebuildBundles [ 'ee-first' ]
+390 info install on-finished@2.2.0
+391 info postinstall on-finished@2.2.0
+392 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/on-finished/node_modules/ee-first
+393 info preinstall ee-first@1.1.0
+394 verbose linkStuff [ false,
+394 verbose linkStuff   false,
+394 verbose linkStuff   false,
+394 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/on-finished/node_modules' ]
+395 info linkStuff ee-first@1.1.0
+396 verbose linkBins ee-first@1.1.0
+397 verbose linkMans ee-first@1.1.0
+398 verbose rebuildBundles ee-first@1.1.0
+399 info install ee-first@1.1.0
+400 info postinstall ee-first@1.1.0
+401 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/fresh
+402 info preinstall fresh@0.2.4
+403 verbose linkStuff [ false,
+403 verbose linkStuff   false,
+403 verbose linkStuff   false,
+403 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules' ]
+404 info linkStuff fresh@0.2.4
+405 verbose linkBins fresh@0.2.4
+406 verbose linkMans fresh@0.2.4
+407 verbose rebuildBundles fresh@0.2.4
+408 info install fresh@0.2.4
+409 info postinstall fresh@0.2.4
+410 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/media-typer
+411 info preinstall media-typer@0.3.0
+412 verbose linkStuff [ false,
+412 verbose linkStuff   false,
+412 verbose linkStuff   false,
+412 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules' ]
+413 info linkStuff media-typer@0.3.0
+414 verbose linkBins media-typer@0.3.0
+415 verbose linkMans media-typer@0.3.0
+416 verbose rebuildBundles media-typer@0.3.0
+417 info install media-typer@0.3.0
+418 info postinstall media-typer@0.3.0
+419 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/methods
+420 info preinstall methods@1.1.1
+421 verbose linkStuff [ false,
+421 verbose linkStuff   false,
+421 verbose linkStuff   false,
+421 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules' ]
+422 info linkStuff methods@1.1.1
+423 verbose linkBins methods@1.1.1
+424 verbose linkMans methods@1.1.1
+425 verbose rebuildBundles methods@1.1.1
+426 info install methods@1.1.1
+427 info postinstall methods@1.1.1
+428 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/parseurl
+429 info preinstall parseurl@1.3.0
+430 verbose linkStuff [ false,
+430 verbose linkStuff   false,
+430 verbose linkStuff   false,
+430 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules' ]
+431 info linkStuff parseurl@1.3.0
+432 verbose linkBins parseurl@1.3.0
+433 verbose linkMans parseurl@1.3.0
+434 verbose rebuildBundles parseurl@1.3.0
+435 info install parseurl@1.3.0
+436 info postinstall parseurl@1.3.0
+437 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/path-to-regexp
+438 info preinstall path-to-regexp@0.1.3
+439 verbose linkStuff [ false,
+439 verbose linkStuff   false,
+439 verbose linkStuff   false,
+439 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules' ]
+440 info linkStuff path-to-regexp@0.1.3
+441 verbose linkBins path-to-regexp@0.1.3
+442 verbose linkMans path-to-regexp@0.1.3
+443 verbose rebuildBundles path-to-regexp@0.1.3
+444 info install path-to-regexp@0.1.3
+445 info postinstall path-to-regexp@0.1.3
+446 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/proxy-addr
+447 info preinstall proxy-addr@1.0.6
+448 verbose linkStuff [ false,
+448 verbose linkStuff   false,
+448 verbose linkStuff   false,
+448 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules' ]
+449 info linkStuff proxy-addr@1.0.6
+450 verbose linkBins proxy-addr@1.0.6
+451 verbose linkMans proxy-addr@1.0.6
+452 verbose rebuildBundles proxy-addr@1.0.6
+453 verbose rebuildBundles [ 'forwarded', 'ipaddr.js' ]
+454 info install proxy-addr@1.0.6
+455 info postinstall proxy-addr@1.0.6
+456 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/proxy-addr/node_modules/forwarded
+457 info preinstall forwarded@0.1.0
+458 verbose linkStuff [ false,
+458 verbose linkStuff   false,
+458 verbose linkStuff   false,
+458 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/proxy-addr/node_modules' ]
+459 info linkStuff forwarded@0.1.0
+460 verbose linkBins forwarded@0.1.0
+461 verbose linkMans forwarded@0.1.0
+462 verbose rebuildBundles forwarded@0.1.0
+463 info install forwarded@0.1.0
+464 info postinstall forwarded@0.1.0
+465 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js
+466 info preinstall ipaddr.js@0.1.8
+467 verbose linkStuff [ false,
+467 verbose linkStuff   false,
+467 verbose linkStuff   false,
+467 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/proxy-addr/node_modules' ]
+468 info linkStuff ipaddr.js@0.1.8
+469 verbose linkBins ipaddr.js@0.1.8
+470 verbose linkMans ipaddr.js@0.1.8
+471 verbose rebuildBundles ipaddr.js@0.1.8
+472 info install ipaddr.js@0.1.8
+473 info postinstall ipaddr.js@0.1.8
+474 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/qs
+475 info preinstall qs@2.3.3
+476 verbose linkStuff [ false,
+476 verbose linkStuff   false,
+476 verbose linkStuff   false,
+476 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules' ]
+477 info linkStuff qs@2.3.3
+478 verbose linkBins qs@2.3.3
+479 verbose linkMans qs@2.3.3
+480 verbose rebuildBundles qs@2.3.3
+481 info install qs@2.3.3
+482 info postinstall qs@2.3.3
+483 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/range-parser
+484 info preinstall range-parser@1.0.2
+485 verbose linkStuff [ false,
+485 verbose linkStuff   false,
+485 verbose linkStuff   false,
+485 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules' ]
+486 info linkStuff range-parser@1.0.2
+487 verbose linkBins range-parser@1.0.2
+488 verbose linkMans range-parser@1.0.2
+489 verbose rebuildBundles range-parser@1.0.2
+490 info install range-parser@1.0.2
+491 info postinstall range-parser@1.0.2
+492 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/send
+493 info preinstall send@0.11.1
+494 verbose linkStuff [ false,
+494 verbose linkStuff   false,
+494 verbose linkStuff   false,
+494 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules' ]
+495 info linkStuff send@0.11.1
+496 verbose linkBins send@0.11.1
+497 verbose linkMans send@0.11.1
+498 verbose rebuildBundles send@0.11.1
+499 verbose rebuildBundles [ 'destroy', 'mime', 'ms' ]
+500 info install send@0.11.1
+501 info postinstall send@0.11.1
+502 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/send/node_modules/destroy
+503 info preinstall destroy@1.0.3
+504 verbose linkStuff [ false,
+504 verbose linkStuff   false,
+504 verbose linkStuff   false,
+504 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/send/node_modules' ]
+505 info linkStuff destroy@1.0.3
+506 verbose linkBins destroy@1.0.3
+507 verbose linkMans destroy@1.0.3
+508 verbose rebuildBundles destroy@1.0.3
+509 info install destroy@1.0.3
+510 info postinstall destroy@1.0.3
+511 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/send/node_modules/mime
+512 info preinstall mime@1.2.11
+513 verbose linkStuff [ false,
+513 verbose linkStuff   false,
+513 verbose linkStuff   false,
+513 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/send/node_modules' ]
+514 info linkStuff mime@1.2.11
+515 verbose linkBins mime@1.2.11
+516 verbose linkMans mime@1.2.11
+517 verbose rebuildBundles mime@1.2.11
+518 info install mime@1.2.11
+519 info postinstall mime@1.2.11
+520 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/send/node_modules/ms
+521 info preinstall ms@0.7.0
+522 verbose linkStuff [ false,
+522 verbose linkStuff   false,
+522 verbose linkStuff   false,
+522 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/send/node_modules' ]
+523 info linkStuff ms@0.7.0
+524 verbose linkBins ms@0.7.0
+525 verbose linkMans ms@0.7.0
+526 verbose rebuildBundles ms@0.7.0
+527 info install ms@0.7.0
+528 info postinstall ms@0.7.0
+529 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/serve-static
+530 info preinstall serve-static@1.8.1
+531 verbose linkStuff [ false,
+531 verbose linkStuff   false,
+531 verbose linkStuff   false,
+531 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules' ]
+532 info linkStuff serve-static@1.8.1
+533 verbose linkBins serve-static@1.8.1
+534 verbose linkMans serve-static@1.8.1
+535 verbose rebuildBundles serve-static@1.8.1
+536 info install serve-static@1.8.1
+537 info postinstall serve-static@1.8.1
+538 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/utils-merge
+539 info preinstall utils-merge@1.0.0
+540 verbose linkStuff [ false,
+540 verbose linkStuff   false,
+540 verbose linkStuff   false,
+540 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules' ]
+541 info linkStuff utils-merge@1.0.0
+542 verbose linkBins utils-merge@1.0.0
+543 verbose linkMans utils-merge@1.0.0
+544 verbose rebuildBundles utils-merge@1.0.0
+545 info install utils-merge@1.0.0
+546 info postinstall utils-merge@1.0.0
+547 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/type-is
+548 info preinstall type-is@1.5.7
+549 verbose linkStuff [ false,
+549 verbose linkStuff   false,
+549 verbose linkStuff   false,
+549 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules' ]
+550 info linkStuff type-is@1.5.7
+551 verbose linkBins type-is@1.5.7
+552 verbose linkMans type-is@1.5.7
+553 verbose rebuildBundles type-is@1.5.7
+554 verbose rebuildBundles [ 'mime-types' ]
+555 info install type-is@1.5.7
+556 info postinstall type-is@1.5.7
+557 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/type-is/node_modules/mime-types
+558 info preinstall mime-types@2.0.9
+559 verbose linkStuff [ false,
+559 verbose linkStuff   false,
+559 verbose linkStuff   false,
+559 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/type-is/node_modules' ]
+560 info linkStuff mime-types@2.0.9
+561 verbose linkBins mime-types@2.0.9
+562 verbose linkMans mime-types@2.0.9
+563 verbose rebuildBundles mime-types@2.0.9
+564 verbose rebuildBundles [ 'mime-db' ]
+565 info install mime-types@2.0.9
+566 info postinstall mime-types@2.0.9
+567 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/type-is/node_modules/mime-types/node_modules/mime-db
+568 info preinstall mime-db@1.7.0
+569 verbose linkStuff [ false,
+569 verbose linkStuff   false,
+569 verbose linkStuff   false,
+569 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/type-is/node_modules/mime-types/node_modules' ]
+570 info linkStuff mime-db@1.7.0
+571 verbose linkBins mime-db@1.7.0
+572 verbose linkMans mime-db@1.7.0
+573 verbose rebuildBundles mime-db@1.7.0
+574 info install mime-db@1.7.0
+575 info postinstall mime-db@1.7.0
+576 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/vary
+577 info preinstall vary@1.0.0
+578 verbose linkStuff [ false,
+578 verbose linkStuff   false,
+578 verbose linkStuff   false,
+578 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules' ]
+579 info linkStuff vary@1.0.0
+580 verbose linkBins vary@1.0.0
+581 verbose linkMans vary@1.0.0
+582 verbose rebuildBundles vary@1.0.0
+583 info install vary@1.0.0
+584 info postinstall vary@1.0.0
+585 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/cookie
+586 info preinstall cookie@0.1.2
+587 verbose linkStuff [ false,
+587 verbose linkStuff   false,
+587 verbose linkStuff   false,
+587 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules' ]
+588 info linkStuff cookie@0.1.2
+589 verbose linkBins cookie@0.1.2
+590 verbose linkMans cookie@0.1.2
+591 verbose rebuildBundles cookie@0.1.2
+592 info install cookie@0.1.2
+593 info postinstall cookie@0.1.2
+594 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules/merge-descriptors
+595 info preinstall merge-descriptors@0.0.2
+596 verbose linkStuff [ false,
+596 verbose linkStuff   false,
+596 verbose linkStuff   false,
+596 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/express/node_modules' ]
+597 info linkStuff merge-descriptors@0.0.2
+598 verbose linkBins merge-descriptors@0.0.2
+599 verbose linkMans merge-descriptors@0.0.2
+600 verbose rebuildBundles merge-descriptors@0.0.2
+601 info install merge-descriptors@0.0.2
+602 info postinstall merge-descriptors@0.0.2
+603 info build /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/jade
+604 info preinstall jade@1.9.2
+605 verbose linkStuff [ false,
+605 verbose linkStuff   false,
+605 verbose linkStuff   false,
+605 verbose linkStuff   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules' ]
+606 info linkStuff jade@1.9.2
+607 verbose linkBins jade@1.9.2
+608 verbose link bins [ { jade: './bin/jade.js' },
+608 verbose link bins   '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/.bin',
+608 verbose link bins   false ]
+609 verbose linkMans jade@1.9.2
+610 verbose rebuildBundles jade@1.9.2
+611 verbose rebuildBundles [ '.bin',
+611 verbose rebuildBundles   'character-parser',
+611 verbose rebuildBundles   'commander',
+611 verbose rebuildBundles   'constantinople',
+611 verbose rebuildBundles   'mkdirp',
+611 verbose rebuildBundles   'transformers',
+611 verbose rebuildBundles   'void-elements',
+611 verbose rebuildBundles   'with' ]
+612 error Error: EACCES, unlink '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/.bin/jade'
+612 error  { [Error: EACCES, unlink '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/.bin/jade']
+612 error   errno: 3,
+612 error   code: 'EACCES',
+612 error   path: '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/.bin/jade' }
+613 error Please try running this command again as root/Administrator.
+614 error System Darwin 14.0.0
+615 error command "node" "/usr/local/bin/npm" "rebuild"
+616 error cwd /Users/AmaninderSingh/Documents/web-fullstack/demo
+617 error node -v v0.10.36
+618 error npm -v 1.4.28
+619 error path /Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/.bin/jade
+620 error code EACCES
+621 error errno 3
+622 error stack Error: EACCES, unlink '/Users/AmaninderSingh/Documents/web-fullstack/demo/node_modules/.bin/jade'
+623 verbose exit [ 3, true ]

@@ -1,0 +1,77 @@
+ main .container {
+    width: 855px;
+}
+header .container, footer .container {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+    
+}
+
+header, main, footer {
+    min-width: 855px;
+    overflow: hidden;
+}
+#dates {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:300px;
+    float:left;
+    padding:5px;
+    	      
+}
+#dates p, #center p {
+    color: red;
+}
+body {
+    background-color: black;
+    display: block;
+}
+main  {
+    background-color: white;
+
+}
+.footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+.left{
+    float: left;
+    padding-top: 5px;
+
+}
+.right{
+    float: right;
+    padding-top: 5px;
+}
+#nav {
+	float:right;
+	display: block;
+	padding-top: 40%;
+	
+	
+}
+
+
+
+ #hoverbox {
+            display:none;
+            position:absolute;
+            background: "light blue";
+        }
+      
+        .pop-up-bc-tooltip {
+            float:left;
+            padding:14px 12px;
+            border:2px solid #626367;
+            font: normal 14px Arial, Helvetica, sans-serif;
+            -moz-border-radius: 2px;
+            border-radius: 2px;
+            background:#fffcfc;
+        }
+
